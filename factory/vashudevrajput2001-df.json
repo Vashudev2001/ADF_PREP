@@ -1,0 +1,15 @@
+{
+	"name": "vashudevrajput2001-df",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cfb71e5a-3ce6-46aa-8b51-c72ed5417093",
+		"tenantId": "896e6870-d19b-4923-b53b-2760cd40f0a7"
+	}
+}
